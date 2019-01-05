@@ -1,0 +1,14 @@
+{
+  "name": "lorika",
+  "version": "1.0.0",
+  "description": "un bot, el cual sirve para todo, desde ponerte unos rolones bien vergas hasta comandos de rule34 y un chingoooooo de yuri y de yaoi, todo es furry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wolfstrop",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
